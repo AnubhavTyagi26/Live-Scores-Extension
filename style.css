@@ -1,0 +1,10 @@
+body {
+    font-family: Georgia, serif;
+    min-width: 500px;
+    background-color: #00bfff;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
